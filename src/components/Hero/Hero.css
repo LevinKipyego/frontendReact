@@ -1,0 +1,16 @@
+.hero{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+.hero-text{
+    position: absolute;
+    top: 55%;
+    color:rebeccapurple;
+}
